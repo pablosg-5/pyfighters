@@ -17,5 +17,9 @@ and open the template in the editor.
             <result name="success">home.jsp</result>
             <result name="error" type="dispatcher">login.jsp</result>
         </action>
+        <action name="matches" class="MatchAction">
+            <result name="success">matches.jsp</result>
+        </action>
+
     </package>
 </struts>
