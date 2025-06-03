@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/web/matches.jsp</file>
-            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/src/java/struts.xml</file>
-            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/src/java/MatchAction.java</file>
-            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/src/java/MatchDAO.java</file>
-            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/src/java/Match.java</file>
+            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/src/java/com/myapp/struts/MatchAction.java</file>
+            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/src/java/com/myapp/struts/dao/MatchDAO.java</file>
+            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/src/java/com/myapp/struts/dao/ResultDAO.java</file>
+            <file>file:/C:/Users/pablo/Documents/GitHub/pyfighters/src/java/com/myapp/struts/ResultAction.java</file>
         </group>
     </open-files>
 </project-private>
