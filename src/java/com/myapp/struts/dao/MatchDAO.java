@@ -1,11 +1,11 @@
-package dao;
+package com.myapp.struts.dao;
 
 
 /**
  *
  * @author pablo
  */
-import model.Match;
+import com.myapp.struts.model.Match;
 import java.sql.*;
 import java.util.*;
 

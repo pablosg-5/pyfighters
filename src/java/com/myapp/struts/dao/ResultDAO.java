@@ -2,7 +2,7 @@
  *
  * @author pablo
  */
-package dao;
+package com.myapp.struts.dao;
 
 import java.sql.*;
 import java.util.*;

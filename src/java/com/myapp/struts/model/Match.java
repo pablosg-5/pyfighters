@@ -2,7 +2,7 @@
  *
  * @author pablo
  */
-package model;
+package com.myapp.struts.model;
 
 public class Match {
 

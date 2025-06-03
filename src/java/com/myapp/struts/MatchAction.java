@@ -2,10 +2,10 @@
  *
  * @author pablo
  */
-package action;
+package com.myapp.struts;
 
-import model.Match;
-import dao.MatchDAO;
+import com.myapp.struts.model.Match;
+import com.myapp.struts.dao.MatchDAO;
 import com.opensymphony.xwork2.ActionSupport;
 import java.util.List;
 

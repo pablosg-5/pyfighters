@@ -2,7 +2,7 @@
  *
  * @author pablo
  */
-package model;
+package com.myapp.struts.model;
 
 import java.sql.Timestamp;
 
