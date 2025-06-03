@@ -4,16 +4,26 @@
  */
 package com.myapp.struts.dao;
 
-import java.sql.*;
-import java.util.*;
+import com.myapp.struts.model.Result;
+import java.util.List;
 
-public class ResultDAO {
+public interface ResultDAO {
 
-    private Connection connection;
+    // Crear resultado
+    void createResult(Result result) throws Exception;
 
-    public ResultDAO(Connection connection) {
-        this.connection = connection;
-    }
+    // Modificar resultado
+    void updateResult(Result result) throws Exception;
 
-    // Métodos CRUD se implementarán después
+    // Eliminar resultado por ID
+    void deleteResult(int resultId) throws Exception;
+
+    // Obtener resultado por ID
+    Result getResult(int resultId) throws Exception;
+
+    // Listar todos los resultados
+    List<Result> listResults() throws Exception;
+
+    // Buscar resultados por luchador o arena
+    List<Result> searchResults(Integer fighterId, Integer arenaId) throws Exception;
 }
