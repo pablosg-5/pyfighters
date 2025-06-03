@@ -1,8 +1,11 @@
+package dao;
+
 
 /**
  *
  * @author pablo
  */
+import model.Match;
 import java.sql.*;
 import java.util.*;
 

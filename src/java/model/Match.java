@@ -1,8 +1,9 @@
-
 /**
  *
  * @author pablo
  */
+package model;
+
 public class Match {
 
     private int matchId;
@@ -12,7 +13,6 @@ public class Match {
     private String result;
     private String date;
 
-    // Getters y Setters
     public int getMatchId() {
         return matchId;
     }
